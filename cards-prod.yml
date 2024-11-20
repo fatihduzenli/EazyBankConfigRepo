@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related prod APIs"
+  message: "Hey! welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Turkan Duzenli - Product Owner"
     email: "sandra@eazybank.com"
